@@ -7,6 +7,7 @@ public class HelloGitTest {
 		
 		System.out.print("Hello Git Test!");
 		System.out.print("crate test1 branch");
+		System.out.print("마스터 브랜치에서 번경사항 출력");
 	}
 
 }
